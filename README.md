@@ -45,9 +45,10 @@ Logging in as agent John in the support group, this is how the ticket was presen
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="2336" height="1528" alt="Screenshot 2026-02-24 103157" src="https://github.com/user-attachments/assets/c0c0d0b6-8b8c-495d-a14d-52bb9cf056d6" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After logging in as Jane, the issue was resolved successfully (in this scenario, by resetting the server). I documented that I had reached out to the end user, and closed the ticket, thus ending the ticket lifestyle.
 </p>
 <br />
