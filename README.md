@@ -14,7 +14,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Enterprise
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -26,10 +26,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1940" height="1528" alt="Screenshot 2026-02-24 094904" src="https://github.com/user-attachments/assets/aa43a266-b855-45f4-86fb-91fa9190ec7f" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+So, the beginning of the ticket lifestyle would be the end user submitting the ticket. In this scenario, the end user (Karen, in this case) is a bank teller that is having issues accessing the online banking system portal. I intentionally put the help topic as general inquiry to simulate an extra potential oversite on the agent side (as far as escalation goes).
 </p>
 <br />
 
