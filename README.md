@@ -36,10 +36,11 @@ So, the beginning of the ticket lifestyle would be the end user submitting the t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1940" height="1528" alt="image" src="https://github.com/user-attachments/assets/a145e8f8-a3b9-4c1d-ae60-7684e4f32020" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logging in as agent John in the support group, this is how the ticket was presented. There were a few issues to address: the priority needed to be changed to emergency (a banking system being down requires immediate attention), the SLA needed to be changed to Sev-A (the highest priority SLA), and the help topic needed to be changed from general inquiry to business critical outage. After doing all this, I escalated the ticket from John to Jane, while changing the department from support to Sysadmin (Janes' role).
 </p>
 <br />
 
